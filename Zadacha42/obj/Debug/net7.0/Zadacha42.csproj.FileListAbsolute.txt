@@ -1,0 +1,15 @@
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\bin\Debug\net7.0\Zadacha42.exe
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\bin\Debug\net7.0\Zadacha42.deps.json
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\bin\Debug\net7.0\Zadacha42.runtimeconfig.json
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\bin\Debug\net7.0\Zadacha42.dll
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\bin\Debug\net7.0\Zadacha42.pdb
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.dll
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\refint\Zadacha42.dll
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.pdb
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\Zadacha42.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\Программирование С#\DZ6.1\Zadacha42\obj\Debug\net7.0\ref\Zadacha42.dll
